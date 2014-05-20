@@ -1,0 +1,25 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+LM386      N08E                  4000mil       3400mil       4000mil       3400mil       3850mil       3550mil  T        360.00 LM386N-3       
+S1         HDR1X6                2410mil       4200mil       2160mil       4200mil       2160mil       4200mil  T        360.00 Header 6       
+R5         AXIAL-0.3             2900mil       3860mil       2900mil       3860mil       2900mil       3710mil  T         90.00                
+R4         AXIAL-0.3             3820mil       4360mil       3820mil       4360mil       3670mil       4360mil  T        360.00                
+R3         AXIAL-0.3             3800mil       4560mil       3800mil       4560mil       3650mil       4560mil  T        360.00                
+R2         AXIAL-0.3             4540mil       3740mil       4540mil       3740mil       4540mil       3890mil  T        270.00                
+R1         AXIAL-0.3             4540mil       4260mil       4540mil       4260mil       4540mil       4410mil  T        270.00                
+P0         HDR1X2                2200mil       3850mil       2200mil       3800mil       2200mil       3800mil  T         90.00 OUTPUT         
+MK1        PIN2                  4560mil       4610mil       4560mil       4660mil       4560mil       4660mil  T        270.00 Mic2           
+D4         DIO10.46-5.3x2.8       2680mil       3380mil       2680mil       3380mil       2680mil   3174.094mil  T         90.00 Diode 1N4007   
+D3         DIO10.46-5.3x2.8       3000mil       3380mil       3000mil       3380mil       3000mil   3174.094mil  T         90.00 Diode 1N4007   
+D2         DIO10.46-5.3x2.8       2200mil       3380mil       2200mil       3380mil       2200mil   3174.094mil  T         90.00 Diode 1N4007   
+D1         DIO10.46-5.3x2.8       2460mil       3400mil       2460mil       3400mil       2460mil   3605.906mil  T        270.00 Diode 1N4007   
+C8         CAPPR7.5-16x35        3120mil       4560mil       3120mil       4560mil   2972.362mil       4560mil  T          0.00                
+C7         RAD-0.1               2620mil       4500mil       2620mil       4500mil       2620mil       4550mil  T        270.00                
+C6         CAPPR2-5x6.8          2620mil       3900mil       2620mil       3900mil    2659.37mil       3900mil  T        180.00                
+C5         RAD-0.1               3320mil       3700mil       3320mil       3700mil       3320mil       3650mil  T         90.00                
+C4         RAD-0.1               3320mil       3320mil       3320mil       3320mil       3320mil       3270mil  T         90.00                
+C3         CAPPR2-5x6.8          4240mil       3980mil       4240mil       3980mil       4240mil    3940.63mil  T         90.00                
+C2         CAPPR2-5x6.8          3960mil       3800mil       3960mil       3800mil    3920.63mil       3800mil  T          0.00                
+C1         CAPPR2-5x6.8          4180mil       4540mil       4180mil       4540mil    4219.37mil       4540mil  T        180.00                
+J0         KLD-0202          2277.323mil   4461.575mil       1860mil       4560mil    2399.37mil       4560mil  T        360.00 PWR2.1         
+
